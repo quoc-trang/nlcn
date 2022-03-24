@@ -1,2 +1,2 @@
 # nlcn
-https://dashboard.heroku.com/apps/takingyourmoney/deploy/github
+https://takingyourmoney.herokuapp.com/
